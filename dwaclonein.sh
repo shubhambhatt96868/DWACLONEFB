@@ -1,4 +1,7 @@
 #!/bin/bash
+pkg install ruby
+gem install lolcat
+
 echo -e "\e[33m"
 clear
 echo "WelCome To World To Hacking :)"
