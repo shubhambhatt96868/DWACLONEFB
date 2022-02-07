@@ -1,5 +1,5 @@
 apt update
-apt updgade 
+apt upgrade 
 pkg install git
 pkg install ruby
 gem install lolcat
