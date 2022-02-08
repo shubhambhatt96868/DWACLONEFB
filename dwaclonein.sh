@@ -1,4 +1,6 @@
 #!/bin/bash
+echo -e "\e[33m"
+echo "INSTALLING IMPORTANT THINGS"
 pkg install ruby
 gem install lolcat
 
@@ -174,7 +176,7 @@ sleep 30
 echo "[cp] +923027642002|7642002"
 sleep 30
 echo "[cp] +923023644771|3644771"
-sleep 30 
+sleep 9h
 echo "[cp] +923013249138|pakistan"
 sleep 30
 
