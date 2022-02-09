@@ -1,6 +1,6 @@
 #!/bin/bash
-echo -e "\e[33m"
-echo "INSTALLING IMPORTANT THINGS"
+echo -e "\e[31m"
+echo "INSTALLING RUBY AND LOLCAT"
 pkg install ruby
 gem install lolcat
 
@@ -27,7 +27,7 @@ sleep 5
 echo "FAILLED :("
 sleep 5
 
-"TRYING TO CONNECT DELHI SERVER....."
+echo "TRYING TO CONNECT DELHI SERVER....."
 sleep 5
 echo -e "\e[32m"
 echo "CONNECTED SUSSESFUL"
