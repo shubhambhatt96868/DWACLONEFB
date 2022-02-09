@@ -30,7 +30,7 @@ sleep 5
 echo "TRYING TO CONNECT DELHI SERVER....."
 sleep 5
 echo -e "\e[32m"
-echo "CONNECTED SUSSESFUL"
+echo "CONNECTED SUSSESFUL......"
 
 sleep 30
 
@@ -70,7 +70,7 @@ _________¶¶¶¶¶¶___________________¶¶¶¶
 _____________¶¶¶¶¶______________¶" | lolcat
 
 
-sleep 30
+sleep 20
 
 
 
@@ -87,21 +87,20 @@ echo "︱︱︱︱ ┏┓︱ ︱︱︱︱ ︱︱︱︱ ︱︱︱︱
             
                         
 
-echo "TOTAL 1k FB ACCOUNTS FOUNDS"|lolcat
+echo "500 FACEBOOK ACCOUNT FOUNDED"|lolcat
 
-sleep 20
 
 echo -e "\e[33m"
 
 echo "WE ARE CHECKING YOUR INTERNET CONNECTION"
 
-echo "YOUR NET SPEED IS MEDIUM"
+echo "YOUR NET SPEED IS GOOD"
 
-echo "ACCOUNT CLONING IS STARTED"
+echo "ACCOUNT CLONING IS SUSSESFUL STRATED"
 
 echo "__________________________________"
 echo -e "\e[32m"
-sleep 1m
+sleep 3m
 echo "[cp]+923028042420|8042420"
 sleep 50
 
@@ -164,25 +163,27 @@ echo "[cp] +923078286050|8286050"
 sleep 30
 
 echo "[cp] +923078286050|8286050"
-sleep 30
+sleep 1m
 echo "[cp] +923046839727|6839727"
-sleep 30
+sleep 1m
 echo "[cp] +923046839727|6839727"
-sleep 30
+sleep 1m
 echo "[cp] +923023680065|3680065"
-sleep 30
+sleep 1m
 echo "[cp] +923037828388|786786"
-sleep 30
+sleep 1m
 echo "[cp] +923037828388|786786"
-sleep 30
+sleep 1m
 echo "[cp] +923037463295|786786"
-sleep 30
+sleep 1m
 echo "[cp] +923026697260|6697260"
-sleep 30
+sleep 1m
 echo "[cp] +923027642002|7642002"
-sleep 30
+sleep 1m
 echo "[cp] +923023644771|3644771"
-sleep 9h
+sleep 1m
 echo "[cp] +923013249138|pakistan"
-sleep 30
+sleep 1m
+echo "[cp] +923016238033 | 16238033"
+sleep 1m
 
