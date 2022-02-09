@@ -14,7 +14,7 @@ echo "PAKISTANI FACEBOOK CLONING TOOL"
 
 echo "MADE IN INDIA TOOL"
 
-echo "CREATED BY COMMANDERX AND SHUBHAMBOYX AND YALIVE"
+echo "CREATED BY SHUBHAMBOYX"
 
 echo -e "\e[31m"
 
@@ -22,10 +22,16 @@ echo -e "\e[31m"
 echo "TRYING TO CONNECT MUMBAI SERVER........"
 sleep 5
 echo "FAILLED :("
-echo "TRYING TO CONNECT DELHI SERVER....."
-echo -e "\e[32m"
+echo "TRYING TO CONNECT BIHAR SERVER....."
 sleep 5
+echo "FAILLED :("
+sleep 5
+
+"TRYING TO CONNECT DELHI SERVER....."
+sleep 5
+echo -e "\e[32m"
 echo "CONNECTED SUSSESFUL"
+
 sleep 30
 
 clear
