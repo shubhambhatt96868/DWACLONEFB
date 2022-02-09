@@ -6,7 +6,7 @@ gem install lolcat
 
 echo -e "\e[33m"
 clear
-echo "WelCome To World To Hacking :)"
+echo "WELCOME TO WORLD OF HACKING  :)"
 
 echo -e "\e[32m"
 
@@ -77,17 +77,17 @@ sleep 20
 clear
 
 
-echo "_________ .____    ________    _______  ___________
-\_   ___ \|    |   \_____  \   \      \ \_   _____/
-/    \  \/|    |    /   |   \  /   |   \ |    __)_ 
-\     \___|    |___/    |    \/    |    \|        \
- \______  /_______ \_______  /\____|__  /_______  /
-        \/        \/       \/         \/        \/ "|lolcat
-        echo "WITHOUT LOG IN"|lolcat
-            
+echo "╔═══╗╔╗───╔═══╗╔═╗─╔╗╔═══╗     
+║╔═╗║║║───║╔═╗║║║╚╗║║║╔══╝     
+║║─╚╝║║───║║─║║║╔╗╚╝║║╚══╗     
+║║─╔╗║║─╔╗║║─║║║║╚╗║║║╔══╝     
+║╚═╝║║╚═╝║║╚═╝║║║─║║║║╚══╗     
+╚═══╝╚═══╝╚═══╝╚╝─╚═╝╚═══╝"|lolcat
+        echo "VERSION 1.0"|lolcat
+                 echo "TOOL NAME IS CLONE"|lolcat
                         
 
-echo "500 FACEBOOK ACCOUNT FOUNDED"|lolcat
+echo "500 FACEBOOK ACCOUNTS FOUND"|lolcat
 
 
 echo -e "\e[33m"
@@ -96,8 +96,9 @@ echo "WE ARE CHECKING YOUR INTERNET CONNECTION"
 
 echo "YOUR NET SPEED IS GOOD"
 
-echo "ACCOUNT CLONING IS SUSSESFUL STRATED"
-
+echo "FACEBOOK CLONING IS STARTED SUSSESFUL"
+echo "TOOL IS CREATED USING 100% SHELL LANGUAGE"
+echo CREATED BY SHUBHAMBOYX
 echo "__________________________________"
 echo -e "\e[32m"
 sleep 3m
